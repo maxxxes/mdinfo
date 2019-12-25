@@ -159,7 +159,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 $E=mc^2$
 
-$$\sqrt{3x-1}+(1+x)^2$$
+$\sqrt{3x-1}+(1+x)^2$
 
 $$sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
@@ -180,7 +180,7 @@ B --> D{Rhombus}
 C --> D
 ```
 
-## 13.  Источники и онлайн-редакторы
+## 12.  Источники и онлайн-редакторы
 - <https://stackedit.io/>
 - <https://pandao.github.io/editor.md/en.html>
 - <http://jbt.github.io/markdown-editor>
